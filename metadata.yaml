@@ -22,6 +22,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25650#All-About-the-Little-Small-Red-Hen
 gutenberg_issued: '2008-05-30'
 gutenberg_type: Text
 identifiers:
