@@ -1,0 +1,39 @@
+_repo: All-About-the-Little-Small-Red-Hen_25650
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gruelle, Johnny
+    alias: Gruelle, John B. (John Barton)
+    birthdate: 1880
+    deathdate: 1938
+    gutenberg_agent_id: '3936'
+    url: http://www.gutenberg.org/2009/agents/3936
+    wikipedia: http://en.wikipedia.org/wiki/Johnny_Gruelle
+covers:
+- cover_type: archival
+  image_path: 25650-h/images/cover-s.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2008-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25650'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chickens -- Juvenile fiction'
+- !lcsh 'Foxes -- Juvenile fiction'
+- !lcsh 'Picture books for children'
+- !lcc 'PZ'
+title: All About the Little Small Red Hen
+url: http://www.gutenberg.org/ebooks/25650
